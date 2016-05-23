@@ -1,0 +1,12 @@
+# UD4 Project directories to ignore
+Binaries/
+Intermediate/
+Saved/
+
+# Visual studio solutions
+.vs/
+Link.opensdf
+Link.sdf
+Link.VC.db
+Link.sln
+Link.suo
